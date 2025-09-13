@@ -1,0 +1,10 @@
+# Godot-specific
+.export/
+.import/
+*.import
+export.cfg
+export_presets.cfg
+
+# OS junk
+.DS_Store
+Thumbs.db
