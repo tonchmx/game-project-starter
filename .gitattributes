@@ -1,0 +1,6 @@
+# Handle line endings
+* text=auto
+
+# Specific overrides
+*.sh text eol=lf
+*.bat text eol=crlf
